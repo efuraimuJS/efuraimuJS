@@ -40,7 +40,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- ⚙️ (DevOps Tooling) &nbsp;
+- ⚙️ (Dev/GitOps Tooling) &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
