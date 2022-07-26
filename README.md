@@ -52,10 +52,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.efuraimujs.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ephraim-wangulu-b4475b246/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/efuraimujs/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:efuraimu.js@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.efuraimujs.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.efuraimujs.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/ephraim-wangulu-b4475b246/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ephraim%20Wangulu%20efuraimuJS-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/efuraimujs/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-efuraimujs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:efuraimu.js@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-efuraimu.js@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [efuraimuJS](https://github.com/AVS1508)
+⭐️ From [efuraimuJS](https://github.com/efuraimuJS)
