@@ -30,27 +30,27 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
+  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Anuglar](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular&logoColor=cf0e22)
 
-- 🛢 &nbsp;
+- 🛢 (Databases) &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- ⚙️ &nbsp;
+- ⚙️ (DevOps Tooling) &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
   ![Travis CI](https://img.shields.io/badge/-travis-333333?style=flat&logo=travis)
 
-- 🔧 &nbsp;
+- 🔧 (Developer's Toolbox) &nbsp;
   ![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 🖥 &nbsp;
+- 🖥 (Miscellaneous) &nbsp;
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
