@@ -47,7 +47,7 @@
   ![Travis CI](https://img.shields.io/badge/-travis-333333?style=flat&logo=travis)
 
 - 🔧 (Developer's Toolbox) &nbsp;
-  ![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - 🖥 (Miscellaneous) &nbsp;
