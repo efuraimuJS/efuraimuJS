@@ -1,4 +1,4 @@
-<img src="https://s7280.pcdn.co/wp-content/uploads/2016/07/final.png">
+<img src="https://www.capgemini.com/ch-en/wp-content/uploads/sites/43/2019/04/CloudNative_DotCom-Banner-3_900x300_20190516.jpg">
 
 <h2> Hey there! I'm Ephraim.</h2>
 
