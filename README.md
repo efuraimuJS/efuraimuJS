@@ -13,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - ☁️(Cloud Computing) &nbsp;
-  - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) • AWS Frameworks:  S3, Elastic Beanstalk, RDS, DynamoDB, API Gateway, Lambda
+  - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) • AWS Frameworks:  EC2, S3, Elastic Beanstalk, RDS, DynamoDB, API Gateway, Lambda, Route 53, Cloudformation
   
   - ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) • GCP Frameworks: S3, Elastic Beanstalk, RDS, DynamoDB, API Gateway, Lambda
 
