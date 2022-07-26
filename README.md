@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://s7280.pcdn.co/wp-content/uploads/2016/07/final.png">
 
 <h2> Hey there! I'm Ephraim.</h2>
 
@@ -7,8 +7,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently pursuing a Cloud Developer Nanodegree at Udacity 
 - 💼 &nbsp; Working as a Data Analyst at CloudFactory Kenya Limited.
-- 🌱 &nbsp; Learning more about Cloud Native Application Architecture, Systems Design and Engineering.
-- ✍️ &nbsp; Pursuing UX Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Cloud Native Computing, Systems Design and Engineering.
+- ✍️ &nbsp; Pursuing UX Design and Technical Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
