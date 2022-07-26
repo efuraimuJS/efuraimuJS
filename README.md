@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efuraimujs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
