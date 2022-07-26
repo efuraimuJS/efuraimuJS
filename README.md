@@ -65,6 +65,12 @@
 
 <br/>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=Udagram-Image-Filtering-Microservice-Project-02)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=Udagram-Image-Filtering-Microservice-Project-03)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=Udagram-Image-Filtering-Microservice-Project-04)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
