@@ -1,6 +1,6 @@
 <img src="https://www.capgemini.com/ch-en/wp-content/uploads/sites/43/2019/04/CloudNative_DotCom-Banner-3_900x300_20190516.jpg">
 
-<h2> Hey there! I'm Ephraim: An aspiring Cloud Native Engineer.</h2>
+<h2> Hey there! I'm Ephraim: A Multi-Cloud Native Engineer.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
