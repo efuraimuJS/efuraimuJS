@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently pursuing a Cloud Developer Nanodegree at Udacity 
-- 💼 &nbsp; Working as a Data Analyst at CloudFactory Kenya Limited.
+- 🎓 &nbsp; Completed the Cloud Developer Nanodegree at Udacity 
+- 💼 &nbsp; Working as a Data Specialist at CloudFactory Kenya Limited.
 - 🌱 &nbsp; Learning more about Cloud Native Computing, Systems Design and Engineering.
 - ✍️ &nbsp; Pursuing UX Design and Technical Writing as hobbies/side hustles.
 
