@@ -74,7 +74,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://www.efuraimujs.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.efuraimujs.tech-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://efuraimujs.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-http://efuraimujs.tech/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ephraim-wangulu-b4475b246/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ephraim%20Wangulu%20(efuraimuJS)-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/efuraimujs/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@efuraimujs-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:efuraimu.js@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-efuraimu.js@gmail.com-blue?style=flat-square&logo=gmail"></a>
