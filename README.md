@@ -15,8 +15,7 @@
 - ☁️(Cloud Computing) &nbsp;
   - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) • AWS Platforms:  EC2, S3, Elastic Beanstalk, RDS, DynamoDB, API Gateway, Lambda, Route 53, Cloudformation
   
-  - ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) • GCP Platforms: S3, Elastic Beanstalk, RDS, DynamoDB, API Gateway, Lambda
-
+  - ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) • GCP Platforms: Compute Engine, Cloud Storage, Cloud SDK, Cloud SQL, Google Kubernetes Engine, Apigee, App Engine, Cloud CDN, Cloud Run, Cloud Functions
 
 - 💻 (Languages) &nbsp;
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,7 +54,6 @@
 - ✏️ (App Designing Tools) &nbsp;
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-
 <br/>
 
 <a href="https://github.com/efuraimujs">
@@ -68,8 +66,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=Udagram-Image-Filtering-Microservice-Project-02)](https://github.com/efuraimuJS/Udagram-Image-Filtering-Microservice-Project-02)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=Udagram-Image-Filtering-Microservice-Project-03)](https://github.com/efuraimuJS/Udagram-Image-Filtering-Microservice-Project-03)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=efuraimujs&repo=Udagram-Image-Filtering-Microservice-Project-04)](https://github.com/efuraimuJS/Udagram-Image-Filtering-Microservice-Project-04)
-
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
